@@ -3,4 +3,10 @@
 "sex":"man", 
 "address":"hangzhou", 
 "home":"//www.jb51.net"
-}
+},
+{ 
+"name":"lisi", 
+"sex":"wumen", 
+"address":"beijing", 
+"home":"http://yulu.jb51.net"
+} 
