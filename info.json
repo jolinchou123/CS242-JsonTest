@@ -7,8 +7,10 @@
     'time': 'Tue Mar 09 08:04:09 +0000 2021'
   },
   {
-    "Product": "Women Pant size 39",
-    "color": "Black",
-    "Price": "$21.45"
+    'docid': '1369197299830681601',
+    'score': 6,
+    'text': 'At last. \n\nPiece with his apple. \n\nYet no apple juice. . . .',
+    'user': '𝑮𝑶𝑫??𝑬𝒏𝒆𝒓𝒖',
+    'time': 'Tue Mar 09 08:04:09 +0000 2021'
   }
 ]
